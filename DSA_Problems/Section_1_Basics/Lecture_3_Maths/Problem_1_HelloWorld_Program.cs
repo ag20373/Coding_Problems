@@ -15,7 +15,7 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 
         public void solution()
         {
-            Console.WriteLine("First Maths Program");
+            Console.WriteLine("First Maths Progra");
         }
     }
 }
