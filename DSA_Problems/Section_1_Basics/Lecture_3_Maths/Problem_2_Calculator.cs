@@ -15,9 +15,9 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 
         public void Solution()
         {
-            int Number1 = 2;
+            int Number1 = 4;
             int Number2 = 6;
-            int result = 0;
+            int result = 1;
             
             string Operation = String.Empty;
             Console.WriteLine("Enter the Operation to be Performed");
