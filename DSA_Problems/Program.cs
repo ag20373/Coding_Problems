@@ -16,7 +16,8 @@ namespace DSA_Problems
             //Problem_3_Maximum_Of_TwoAndThree_Number fp = new Problem_3_Maximum_Of_TwoAndThree_Number();
             //Problem_4_Digit_Problem problem_4_Digit_Problem = new Problem_4_Digit_Problem();
             //Problem_5_Palindrome problem_5_Palindrome = new Problem_5_Palindrome();
-            Problem_6_Factorial_Of_Number problem_6_Factorial_Of_Number = new Problem_6_Factorial_Of_Number();
+            Problem_7_Greatest_Common_divisor problem_7_Greatest_Common_Divisor = new Problem_7_Greatest_Common_divisor();
+            //Problem_6_Factorial_Of_Number problem_6_Factorial_Of_Number = new Problem_6_Factorial_Of_Number();
         }
     }
 }
