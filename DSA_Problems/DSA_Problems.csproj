@@ -51,6 +51,7 @@
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_4_Digit_Problem.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_5_Palindrome.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_6_Factorial_Of_Number.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_7_Greatest_Common_divisor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
