@@ -12,7 +12,8 @@ namespace DSA_Problems
         static void Main(string[] args)
         {
             //Problem_1_HelloWorld_Program fp = new Problem_1_HelloWorld_Program();
-            Problem_2_Calculator fp = new Problem_2_Calculator();
+            //Problem_2_Calculator fp = new Problem_2_Calculator();
+            Problem_3_Maximum_Of_TwoAndThree_Number fp = new Problem_3_Maximum_Of_TwoAndThree_Number();
         }
     }
 }
