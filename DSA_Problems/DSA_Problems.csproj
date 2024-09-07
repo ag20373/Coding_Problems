@@ -49,6 +49,7 @@
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_2_Calculator.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_3_Maximum_Of_TwoAndThree Number.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_4_Digit_Problem.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_5_Palindrome.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -37,4 +37,9 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 }
 
 // Space Complexity : O(1)
-// Time Complexity :O(logbase10n)
+// Time Complexity :O(logbase10n) or O(d)
+
+// Other Way Of Solving the Count is Converting the number to String and then get the length.
+// Let n = no.ToString();
+// n.Length;
+// Time Compleixty Remain O(d) or O(logbase10n)
