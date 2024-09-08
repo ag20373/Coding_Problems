@@ -45,13 +45,19 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_10_ArmStrong_Number.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_11_Factor_Of_number.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_12_Prime_Or_Not.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_13_Find_Prime_Numbers.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_1_HelloWorld_Program.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_2_Calculator.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_8_LCM_OF_Two_Number.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_3_Maximum_Of_TwoAndThree Number.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_4_Digit_Problem.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_5_Palindrome.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_6_Factorial_Of_Number.cs" />
     <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_7_Greatest_Common_divisor.cs" />
+    <Compile Include="Section_1_Basics\Lecture_3_Maths\Problem_9_Fibnacci_series.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
