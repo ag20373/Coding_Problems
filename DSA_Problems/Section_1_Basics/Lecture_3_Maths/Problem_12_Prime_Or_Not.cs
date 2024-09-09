@@ -65,3 +65,4 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 }
 
 // Space Compleiity : O(1)
+// Time Complexity : O(Root(n)) Same Logic as Factors

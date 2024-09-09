@@ -11,6 +11,8 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
         public Problem_4_Digit_Problem()
         {
             DigitPRoblem();
+            OptimalWayToCountDigit();
+            ProblemGFG();
         }
 
         public void DigitPRoblem()
@@ -33,6 +35,34 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
             Console.WriteLine("Count Of digits : " + CountOfDigits);//5
 
         }
+
+        public void OptimalWayToCountDigit()
+        {
+            double num = 231233.12312;//Works with int, long
+
+
+            int count = Convert.ToInt32(Math.Log10(num)) + 1; // O(1)
+            Console.WriteLine(count);
+        }
+
+        public void ProblemGFG()
+        {
+            int Num = 205;
+            int N = Num;
+            int count= 0;
+            while (N != 0)
+            {
+                int rem = N % 10;
+                if(rem != 0 && Num % rem == 0)
+                {
+                    count++;
+                }
+                N = N / 10;
+            }
+
+            Console.WriteLine("Count : " + count);
+
+        }
     }
 }
 
@@ -43,3 +73,5 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 // Let n = no.ToString();
 // n.Length;
 // Time Compleixty Remain O(d) or O(logbase10n)
+
+// Time Complexity to count the no of Digit is O(1) -- Optimal Solution 

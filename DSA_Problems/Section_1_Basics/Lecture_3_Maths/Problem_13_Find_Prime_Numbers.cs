@@ -36,3 +36,6 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
         }
     }
 }
+
+
+//This Solution Solve the Problem in O(n*root(n))
