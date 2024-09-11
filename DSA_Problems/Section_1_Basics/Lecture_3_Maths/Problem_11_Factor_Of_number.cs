@@ -67,4 +67,4 @@ namespace DSA_Problems.Section_1_Basics.Lecture_3_Maths
 // i <= Root(n)
 // time Complexity Become  O(root n)
 
-// Space Compleixtty Become O(1)
+// Space Compleixtty Become O(1) //If we are not using any List to sort the elements
